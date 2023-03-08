@@ -6,3 +6,13 @@ To start the game, put the following command lines in the terminal
 cd game
 python main.py
 ```
+
+# App Project
+
+```sh
+git clone
+cd app
+source env/bin/activate
+pip install -r requirements.txt
+python main.py
+```
